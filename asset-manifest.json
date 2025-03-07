@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/found-call-explorer/static/css/main.b515c008.css",
+    "main.js": "/found-call-explorer/static/js/main.6f79d61c.js",
+    "static/js/453.342acaea.chunk.js": "/found-call-explorer/static/js/453.342acaea.chunk.js",
+    "index.html": "/found-call-explorer/index.html",
+    "main.b515c008.css.map": "/found-call-explorer/static/css/main.b515c008.css.map",
+    "main.6f79d61c.js.map": "/found-call-explorer/static/js/main.6f79d61c.js.map",
+    "453.342acaea.chunk.js.map": "/found-call-explorer/static/js/453.342acaea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b515c008.css",
+    "static/js/main.6f79d61c.js"
+  ]
+}
